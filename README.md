@@ -9,16 +9,22 @@
 </p>
 
 ## Codes and Models:
-### Requirement:
-* **PyTorch 1.3.0, torchvision 0.4.1. The code is tested with python=3.7, cuda=9.0.**
-* **Matlab (For training/test data generation and performance evaluation)**
+### Requirements
+**PyTorch1.9.0，torchvision0.10.0. The code is tested with python=3.6, cuda=10.2.**
 
-### Train:
-* **Download the training sets from [Baidu Drive](https://pan.baidu.com/s/173UGmmN0rtOUghIT40oy8w) (Key: NUDT) and unzip them to `./data/train/`.** 
+**Matlab for prepare training data**
+
+### Train
 * **Run `./data/train/GenerateTrainingPatches.m` to generate training patches.**
-* **Run `train.py` to perform training. Checkpoint will be saved to  `./log/`.**
+* **Run `train_1` and `_2.py` to perform training. Checkpoint will be saved to ./log/**
 
-### Test:
-* **Download the test sets and unzip them to `./data`. Here, we provide the full test sets used in our paper on [Google Drive](https://drive.google.com/file/d/1LQDUclNtNZWTT41NndISLGvjvuBbxeUs/view?usp=sharing) and [Baidu Drive](https://pan.baidu.com/s/1SIYGcMBEDDZ0wYrkxL9bnQ) (Key: NUDT).** 
-* **Run `test.py` to perform a demo inference. Results (`.png` files) will be saved to `./results`.**
-* **Run `evaluation.m` to calculate PSNR and SSIM scores.**
+### Test
+## 1. Prepare test data 
+* **Download the test sets and unzip them to ./data**
+* **Run `test_1` and `_2`.py to perform inference and calculate PSNR and SSIM scores.**
+
+### Module Mean
+* **Run `mean_weights.py`**
+
+### **Model Ensemble**
+* **Run `ensemble_calculate.py`**
