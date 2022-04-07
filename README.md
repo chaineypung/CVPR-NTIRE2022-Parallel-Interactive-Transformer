@@ -35,7 +35,7 @@
 
 <p align="center">
 <img src="./figs/result.png" alt="drawing" width="100%" height="700%"/>
-    <h4 align="center">Official challenge result.</h4>
+    <h4 align="center">The official result of 2022 CVPR NTIRE challenge.</h4>
 </p>
 
 ### Acknowledgement:
