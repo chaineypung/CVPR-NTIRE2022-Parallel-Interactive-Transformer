@@ -35,7 +35,7 @@
 
 <p align="center">
 <img src="./figs/result.png" alt="drawing" width="100%" height="700%"/>
-    <h4 align="center">An overview of our Swin-iPASSR network (The RDB and biPAM are the same as iPASSR).</h4>
+    <h4 align="center">Official challenge result.</h4>
 </p>
 
 ### Acknowledgement:
