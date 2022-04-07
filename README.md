@@ -30,3 +30,7 @@
 
 ### Model Ensemble:
 * **Run `ensemble_calculate.py`**
+
+### Acknowledgement:
+- Thanks to the organizers of the 2022 CVPR NTIRE challenge.
+- Thanks to my team members ([Wenlong Guo](https://github.com/zjut-gwl) and Zan Chen).
