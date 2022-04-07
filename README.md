@@ -5,7 +5,7 @@
 
 <p align="center">
 <img src="./figs/network.png" alt="drawing" width="100%" height="700%"/>
-    <h4 align="center">An overview of our Swin-iPASSR network (The RDB and biPAM are the same as [iPASSR](https://github.com/chaineypung/iPASSR).</h4>
+    <h4 align="center">An overview of our Swin-iPASSR network (The RDB and biPAM are the same as iPASSR.</h4>
 </p>
 
 ## Download the Results:
