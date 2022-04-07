@@ -9,7 +9,7 @@
 </p>
 
 ## Download the Results:
-**We share the quantitative and qualitative results achieved by our Swin-iPASSR on all the test sets for 4xSR. Results are available at [Google Drive](https://drive.google.com/file/d/1TsGV6KirbTi0T6yd2gqDrEi08n5hPPon/view) (including test images and models).**
+**We share the quantitative and qualitative results achieved by our Swin-iPASSR on all the test sets for 4xSR. Results are available at [Google Drive](https://drive.google.com/file/d/1TsGV6KirbTi0T6yd2gqDrEi08n5hPPon/view) (including test images and our models).**
 <br>
 
 ## Codes and Models:
