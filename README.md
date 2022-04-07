@@ -4,6 +4,6 @@ This is the source code of the 7th place solution for stereo image super resolut
 ## Network Architecture:
 
 <p align="center">
-<img src="./network.pdf" alt="drawing" width="50%" height="50%"/>
+<img src="./figs/network.png" alt="drawing" width="50%" height="50%"/>
     <h4 align="center">An overview of our Swin-iPASSR network.</h4>
 </p>
