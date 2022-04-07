@@ -31,6 +31,13 @@
 ### Model Ensemble:
 * **Run `ensemble_calculate.py`**
 
+### Challenge Result:
+
+<p align="center">
+<img src="./figs/result.png" alt="drawing" width="100%" height="700%"/>
+    <h4 align="center">An overview of our Swin-iPASSR network (The RDB and biPAM are the same as iPASSR).</h4>
+</p>
+
 ### Acknowledgement:
 - Thanks to the organizers of the 2022 CVPR NTIRE challenge.
 - Thanks to my team members ([Wenlong Guo](https://github.com/zjut-gwl) and Zan Chen).
