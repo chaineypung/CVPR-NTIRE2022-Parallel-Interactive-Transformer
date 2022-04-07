@@ -1,5 +1,5 @@
 # Swin-iPASSR
-### This is the source code of the 7th place solution for stereo image super resolution task in [2022 CVPR NTIRE challenge](https://codalab.lisn.upsaclay.fr/competitions/1598#learn_the_details-overview).
+### This is the source code of the 7th place solution for stereo image super resolution task in [2022 CVPR NTIRE challenge](https://codalab.lisn.upsaclay.fr/competitions/1598#learn_the_details-overview) (Team Name: No War).
 
 ## Network Architecture:
 
