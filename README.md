@@ -8,6 +8,10 @@
     <h4 align="center">An overview of our Swin-iPASSR network.</h4>
 </p>
 
+## Download the Results:
+**We share the quantitative and qualitative results achieved by our Swin-iPASSR on all the test sets for 4xSR. Results are available at [Google Drive](https://drive.google.com/file/d/1TsGV6KirbTi0T6yd2gqDrEi08n5hPPon/view).**
+<br>
+
 ## Codes and Models:
 ### Requirements
 **PyTorch1.9.0，torchvision0.10.0. The code is tested with python=3.6, cuda=10.2.**
