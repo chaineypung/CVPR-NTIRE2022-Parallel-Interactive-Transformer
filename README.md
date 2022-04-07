@@ -19,7 +19,6 @@
 * **Run `train_1` and `_2.py` to perform training. Checkpoint will be saved to ./log/**
 
 ### Test
-## 1. Prepare test data 
 * **Download the test sets and unzip them to ./data**
 * **Run `test_1` and `_2`.py to perform inference and calculate PSNR and SSIM scores.**
 
