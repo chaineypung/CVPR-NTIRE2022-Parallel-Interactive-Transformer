@@ -11,7 +11,7 @@ import torch.nn.functional as F
 from torchvision import transforms
 from model1 import SwinIR
 import math
-
+##model1
 torch.backends.cudnn.enabled = True
 
 def parse_args():
