@@ -40,6 +40,4 @@
 
 ### Acknowledgement:
 - Thanks to the organizers of the 2022 CVPR NTIRE challenge.
-- Thanks to my team members ([Wenlong Guo](https://github.com/zjut-gwl) and Zan Chen).
-
-Any question regarding this work can be addressed to [pcx0521@163.com](pcx0521@163.com).
+- Thanks to my team members ([Chenxu Peng](https://github.com/chaineypungl) and Zan Chen).
